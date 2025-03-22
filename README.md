@@ -26,6 +26,11 @@
 	    : 데이터 순위(rank)를 이용한 비정규 분포 자료의 표준 정규 분포 	형태로의 변환
 ![image](https://github.com/user-attachments/assets/453068e9-c5c1-4199-a1e5-5530c430efa9)
 
+ > spatial resolution  
+ 	1.패칭 (Patching): 매우 큰 크기의 원본 영상 자료에서 입력 영상 자료로 사용되는 패치(patch)로 가공하는 작업  
+ 	2.리사이징 (Resizing) : 입력자료를 샘플링하여 입력 영상의 크기 조정
+
+![image](https://github.com/user-attachments/assets/95e0e234-2373-4a79-994a-ec5945f69570)
 
 
     
